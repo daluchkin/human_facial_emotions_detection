@@ -39,7 +39,7 @@ The goal is to develop a robust deep learning model capable of accurately classi
 
 Runtime of the model training per iteration:
 
-+ **Kaggle GPU P100:** ~30 min.
++ **Kaggle GPU P100/Google Colab GPU:** ~30 min.
 + **MacBook Pro 2018 Intel CPU:** ~10 hours.
 
 ### Technologies Used
